@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack side projects<br>👯 I’m looking to collaborate at the upcoming TAMU hackathon<br>💬 Ask me about anything :)
+🔭 I’m currently working on projects<br>💬 Ask me about anything :)
 
 
 # 💻 Tech Stack:
